@@ -1,0 +1,51 @@
+@font-face{
+  font-family: "Poppins-Medium";
+  src: url("fonts/Poppins-Medium.ttf");
+}
+body{
+  font-family: "Poppins-Medium";
+  color: aliceblue;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+.navbar, .btn-nav{
+  background-color: #4CBE9F;
+  border: none;
+}
+.btn-nav:hover{
+  background-color: #00886C;
+  border: none;
+}
+.btn-nav:focus{
+  background-color: #00886C;
+  border: none;
+}
+
+.forms-links{
+  color:#fff;
+}
+.forms-links:hover{
+  color: rgb(38, 206, 212);
+}
+#footer{
+  background-color: #095F90;
+}
+.documents{
+  background-image: linear-gradient(to right top, #13547a, #1e7292, #3891a6, #59b1b7, #80d0c7);
+}
+.documents2{
+  background-image: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
+}
+
+hr{
+  background-color: #fff;
+}
+.bottomLink{
+  font-size: medium;
+  color: #fff;
+  text-decoration: none;
+}
+
+.bottomLink:hover{
+  color: lightgrey;
+  text-decoration: none;
+}

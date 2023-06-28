@@ -1,0 +1,18 @@
+.articles{
+  background-color:#9197FF;
+}
+.articlesLinks{
+  color:aliceblue;
+}
+.articlesLinks:hover{
+  text-decoration: none;
+}
+#app{
+  height: 30em;
+  overflow: scroll;
+}
+
+#art{
+  height: 30em;
+  overflow: scroll;
+}

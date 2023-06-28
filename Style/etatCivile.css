@@ -1,0 +1,18 @@
+
+details>p,details>details,details>li,details>a{
+    padding-left: 2%;
+}
+.category{
+    padding-left: 2%;
+}
+.categoryDetails{
+    padding-left: 4%;
+}
+
+.fas{
+    font-size: 200%;
+}
+
+.documentsLink,.documentsLink:hover,.documentsLink::after{
+    color: #ffff;
+}

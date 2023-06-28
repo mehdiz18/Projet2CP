@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Poppins-Medium";
+    src: url("fonts/Poppins-Medium.ttf");
+}
+body{
+    font-family: "Poppins-Medium";
+}
+.documents{
+    background-image: linear-gradient(to right top, #13547a, #1e7292, #3891a6, #59b1b7, #80d0c7);
+}
+details>p,details>details,details>li,details>a{
+    padding-left: 2%;
+}
+.fas{
+    font-size: 200%;
+}
